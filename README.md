@@ -7,6 +7,7 @@
 * [Central Bank of Brazil - DLT Research](http://www.bcb.gov.br/htms/public/microcredito/Distributed_ledger_technical_research_in_Central_Bank_of_Brazil.pdf)
 * [MAS, ABS, Accenture - Project Ubin](http://www.mas.gov.sg/~/media/ProjectUbin/Project%20Ubin%20Phase%202%20Reimagining%20RTGS.pdf)
 
-
+## Website Pages
+* [Private Transactions with Quorum](https://medium.com/@didil/enterprise-ethereum-private-transactions-with-quorum-b0574bb60700)
 
 
