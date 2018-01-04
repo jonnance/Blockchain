@@ -1,4 +1,4 @@
-## Useful Resources
+## Useful Papers
 
 * [Hyperledger overview](https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf)
 * [BOJ and ECB: Payment Systems](http://www.ecb.europa.eu/pub/pdf/other/ecb.stella_project_report_september_2017.pdf)
