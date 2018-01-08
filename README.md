@@ -10,4 +10,5 @@
 ## Website Pages
 * [Private Transactions with Quorum](https://medium.com/@didil/enterprise-ethereum-private-transactions-with-quorum-b0574bb60700)
 * [Trend Towards Blockchain Privacy: Zero Knowledge Proofs by G. Samman](https://www.coindesk.com/trend-towards-blockchain-privacy-zero-knowledge-proofs/)
+* [IPFS - The New Distributed Web, and a good companion for Blockchains](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 
