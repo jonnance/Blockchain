@@ -1,22 +1,10 @@
+pragma solidity ^0.4.0;
 
 contract Betting {
-    /* This creates an array with all balances */
-    //mapping (address => uint256) public balanceOf;
-    address public winner;
-    address public loser;
-    uint public winningTeam;
-    
-    uint public bettingPoolAmount;
-    
-    mapping(address=>Bet) public playerBets;
-    mapping(uint=>Bet) public playerBets2;
 
-    mapping(uint => address) public playerBetsIndex;
-    uint public numBets;
-    
-    mapping(uint => uint) public mapTest;
-    
-    
+    /**New data structure to hold attributes of the bettor. 
+     * Team reference to the sports team the bettor predicts will win the game
+     **/
     struct Bet {
         address bettor;
         uint team;
@@ -24,29 +12,38 @@ contract Betting {
         bool winLoss;
     }
     
-    Bet public firstbet;
-    uint public numberTest;
+    
+    //Adds a mapping of the playerBets to their address
+    mapping(address=>Bet) public playerBets;
+    
+    //Adds an index so we can later iterate through all bets made
+    mapping(uint => address) public playerBetsIndex;
+    uint public numBets;
+    
+    //Sum of all money that has been bet on the game
+    uint public bettingPoolAmount;
     
     
     function bet(uint team) public payable{
         
-        numBets ++;
         playerBets[msg.sender] = Bet({bettor: msg.sender, team: team, amount: msg.value, winLoss: false});
         playerBetsIndex[numBets] = msg.sender;
-        firstbet = Bet({bettor: msg.sender, team: team, amount: msg.value, winLoss: false});
-
-        mapTest[1] = 1;
 
         bettingPoolAmount += msg.value;
+        numBets ++;
+
     }
     
 
     function gameEnd(uint winTeam) public{
-        winningTeam = winTeam;
-        for(uint i=0;i<numBets+1; i++) {
+       
+       //Loop through all bets to pay out to the winner
+        for(uint i=0;i<numBets; i++) {
+            
+            //create a temporay bet object to reference easier
             Bet storage b = playerBets[playerBetsIndex[i]];
-            //numberTest = playerBets[playerBetsIndex[i]].team;
-            if(b.team == winningTeam) {
+            
+            if(b.team == winTeam) {
                 playerBets[playerBetsIndex[i]].winLoss = true;
                 b.bettor.transfer(this.balance);
             } else {
@@ -62,9 +59,9 @@ contract Betting {
         return this.balance;
     }
     
-    function getBet() public constant returns (uint, bool, bool){
+    function getBet() public constant returns (uint, bool){
         Bet storage b = playerBets[msg.sender];
-        return (b.team, b.winLoss, b.team == winningTeam);
+        return (b.team, b.winLoss);
     }
 
 }
