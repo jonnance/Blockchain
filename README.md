@@ -1,11 +1,13 @@
 ## Intro to Blockchain
-* [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
-* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-* [Beyond the Hype: Blockchains in capital markets - McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/beyond-the-hype-blockchains-in-capital-markets)
 * [A gentle introduction to blockchain technology](https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
+* [Beyond the Hype: Blockchains in capital markets - McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/beyond-the-hype-blockchains-in-capital-markets)
 * [Smart Contracts: 12 Use Cases for Business & Beyond - Chamber of Digital Commerce](http://digitalchamber.org/assets/smart-contracts-12-use-cases-for-business-and-beyond.pdf)
 * [How does Ethereum Work Anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 * [a16z Links](https://a16z.com/2018/02/10/crypto-readings-resources/)
+
+## Key White Papers
+* [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ## Project Papers
 
