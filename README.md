@@ -1,4 +1,10 @@
-## Useful Papers
+## Intro to Blockchain
+* [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Beyond the Hype: Blockchains in capital markets - McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/beyond-the-hype-blockchains-in-capital-markets)
+
+
+## Project Papers
 
 * [Hyperledger overview](https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf)
 * [BOJ and ECB: Payment Systems](http://www.ecb.europa.eu/pub/pdf/other/ecb.stella_project_report_september_2017.pdf)
@@ -12,3 +18,4 @@
 * [Trend Towards Blockchain Privacy: Zero Knowledge Proofs by G. Samman](https://www.coindesk.com/trend-towards-blockchain-privacy-zero-knowledge-proofs/)
 * [IPFS - The New Distributed Web, and a good companion for Blockchains](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 * [Central Counterparties (CCPs) in decentralized blockchains](https://medium.com/@colin_/central-counterparties-ccps-in-decentralised-blockchains-f2cf671f5787)
+
