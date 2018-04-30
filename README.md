@@ -2,7 +2,10 @@
 * [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 * [Beyond the Hype: Blockchains in capital markets - McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/beyond-the-hype-blockchains-in-capital-markets)
-
+* [A gentle introduction to blockchain technology](https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
+* [Smart Contracts: 12 Use Cases for Business & Beyond - Chamber of Digital Commerce](http://digitalchamber.org/assets/smart-contracts-12-use-cases-for-business-and-beyond.pdf)
+* [How does Ethereum Work Anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+* [a16z Links](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 ## Project Papers
 
@@ -18,4 +21,17 @@
 * [Trend Towards Blockchain Privacy: Zero Knowledge Proofs by G. Samman](https://www.coindesk.com/trend-towards-blockchain-privacy-zero-knowledge-proofs/)
 * [IPFS - The New Distributed Web, and a good companion for Blockchains](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 * [Central Counterparties (CCPs) in decentralized blockchains](https://medium.com/@colin_/central-counterparties-ccps-in-decentralised-blockchains-f2cf671f5787)
+
+## Books
+* [Mastering Bitcoin - Andreas Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_3?ie=UTF8&qid=1525131384&sr=8-3&keywords=mastering+bitcoin)
+* [Age of Cryptocurrency - Paul Vigna, Michael Casey](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556/ref=sr_1_1?s=books&ie=UTF8&qid=1525131421&sr=1-1&keywords=age+of+cryptocurrency+-+michael+casey)
+* [The Truth Machine - Paul Vigna, Michael Casey](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/1250114578/ref=sr_1_1?s=books&ie=UTF8&qid=1525131463&sr=1-1&keywords=trust+machine)
+* [Digital Gold - Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X/ref=sr_1_3?s=books&ie=UTF8&qid=1525131746&sr=1-3&keywords=digital+gold)
+
+## Courses
+* [Bitcoin and Cryptocurrency Technologies - Princeton](https://www.coursera.org/learn/cryptocurrency)
+
+## Videos
+* [Proof of Work - Andreas Antonopoulos](https://youtu.be/fw3WkySh_Ho)
+
 
