@@ -23,6 +23,7 @@
 * [Trend Towards Blockchain Privacy: Zero Knowledge Proofs by G. Samman](https://www.coindesk.com/trend-towards-blockchain-privacy-zero-knowledge-proofs/)
 * [IPFS - The New Distributed Web, and a good companion for Blockchains](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 * [Central Counterparties (CCPs) in decentralized blockchains](https://medium.com/@colin_/central-counterparties-ccps-in-decentralised-blockchains-f2cf671f5787)
+* [Very Basic Elliptic Curve Cryptography](https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed)
 
 ## Books
 * [Mastering Bitcoin - Andreas Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_3?ie=UTF8&qid=1525131384&sr=8-3&keywords=mastering+bitcoin)
