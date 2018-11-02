@@ -26,7 +26,6 @@
 * [Very Basic Elliptic Curve Cryptography](https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed)
 
 ## Tokens
-https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b
 * [A Beginner's Guide to Ethereum Tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b
 )
 
