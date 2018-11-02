@@ -24,11 +24,17 @@
 * [IPFS - The New Distributed Web, and a good companion for Blockchains](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 * [Central Counterparties (CCPs) in decentralized blockchains](https://medium.com/@colin_/central-counterparties-ccps-in-decentralised-blockchains-f2cf671f5787)
 * [Very Basic Elliptic Curve Cryptography](https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed)
+* [Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
 ## Tokens
 * [A Beginner's Guide to Ethereum Tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b
 )
 
+## Privacy
+* [Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf
+)
+* [zk-SNARKs in ZCash](https://z.cash/technology/zksnarks/)
+* [zoKrates: zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)
 
 ## Books
 * [Mastering Bitcoin - Andreas Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_3?ie=UTF8&qid=1525131384&sr=8-3&keywords=mastering+bitcoin)
