@@ -32,6 +32,7 @@
 
 ## Books
 * [Mastering Bitcoin - Andreas Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_3?ie=UTF8&qid=1525131384&sr=8-3&keywords=mastering+bitcoin)
+* [Mastering Ethereum - Andreas Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 * [Age of Cryptocurrency - Paul Vigna, Michael Casey](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556/ref=sr_1_1?s=books&ie=UTF8&qid=1525131421&sr=1-1&keywords=age+of+cryptocurrency+-+michael+casey)
 * [The Truth Machine - Paul Vigna, Michael Casey](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/1250114578/ref=sr_1_1?s=books&ie=UTF8&qid=1525131463&sr=1-1&keywords=trust+machine)
 * [Digital Gold - Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X/ref=sr_1_3?s=books&ie=UTF8&qid=1525131746&sr=1-3&keywords=digital+gold)
