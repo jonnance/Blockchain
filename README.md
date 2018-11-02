@@ -25,6 +25,12 @@
 * [Central Counterparties (CCPs) in decentralized blockchains](https://medium.com/@colin_/central-counterparties-ccps-in-decentralised-blockchains-f2cf671f5787)
 * [Very Basic Elliptic Curve Cryptography](https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed)
 
+## Tokens
+https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b
+* [A Beginner's Guide to Ethereum Tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b
+)
+
+
 ## Books
 * [Mastering Bitcoin - Andreas Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_3?ie=UTF8&qid=1525131384&sr=8-3&keywords=mastering+bitcoin)
 * [Age of Cryptocurrency - Paul Vigna, Michael Casey](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556/ref=sr_1_1?s=books&ie=UTF8&qid=1525131421&sr=1-1&keywords=age+of+cryptocurrency+-+michael+casey)
